@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
                  Padding(
                   child: Text(
                     pdfDoc == null
-                        ? "Pick a new PDF document and wait for it to load..."
+                        ? "Pick a new PDFhfghgg document and wait for it to load..."
                         : "PDF document loaded, ${pdfDoc!.length} pages\n",
                     style: TextStyle(fontSize: 18),
                     textAlign: TextAlign.center,
